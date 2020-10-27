@@ -1,4 +1,8 @@
-# Examples of how to use Facets Dive to explore datasets
+
+## Generating atlas image file and metadata for Facets Dive in Colab
+Just need to download and open colab_fashion_MNIST_atlas_generation.ipynb in Colab to generate the atlas and metadata. 
+
+## Examples of how to use Facets Dive to explore datasets
 
 ## Setting up
 
